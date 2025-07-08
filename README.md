@@ -42,4 +42,4 @@ bakerz-bite-website/
 ```
 ### Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/Bakerz-Bites-Website.git
+git clone https://github.com/ms-rampura/Bakerz-Bites.git
